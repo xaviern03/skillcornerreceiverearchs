@@ -1,2 +1,2 @@
 # skillcornerreceiverearchs
-All Code Scripts for SkillCorner Receiver Evaluation Presentation
+All Code Scripts for Receiver Evaluation Presentation
